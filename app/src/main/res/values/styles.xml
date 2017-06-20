@@ -1,0 +1,21 @@
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>color>
+    <color name="colorPrimarDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor">#1B12C7</color>
+
+    <style name="TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+    <style name="TextView.Label" parent="@style/TextView">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

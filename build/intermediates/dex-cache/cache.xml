@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\romy7\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\romy7\AndroidStudioProjects\ch05_ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_11ce3bfab469c905558e94f43c7b5bcda3e34e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\romy7\AndroidStudioProjects\ch05_ex3_TipCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\romy7\AndroidStudioProjects\ch05_ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_52b5b4a9e70222dd76ce57502a05660e1d4f7a8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\romy7\AndroidStudioProjects\ch05_ex3_TipCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="091f68264819f0a098258763447070bf9c1ac02a">
+        <dex dex="C:\Users\romy7\AndroidStudioProjects\ch05_ex3_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_18ff1217acad1e0262ce82f06a41595d90d7e11f\classes.dex" />
+    </item>
+
+</items>
